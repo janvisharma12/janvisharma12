@@ -1,13 +1,26 @@
 # Hi there, I'm Janvi Sharma 👋
 
 ### 👩‍💻 About Me
-I'm currently pursuing my **BTech in Computer Science and Engineering**, specializing in **Artificial Intelligence and Machine Learning (AIML)**. My journey in tech revolves around learning and building machine learning projects. I'm passionate about leveraging data and AI to solve real-world problems.
+I'm currently pursuing my **B.Tech in Computer Science and Engineering**, specializing in **Artificial Intelligence and Machine Learning (AIML)**. My journey in tech revolves around learning and building machine learning projects. I'm passionate about leveraging data and AI to solve real-world problems.
 
 ### 🛠️ Technologies & Tools
-- **Languages**: Python, C++, SQL
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras, Pandas
-- **Version Control**: Git & GitHub
-- **Databases**: MySQL
+- **Languages**:
+
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+
+- **Machine Learning**: 
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" style="enable-background:new 0 0 128 128" viewBox="0 0 128 128" width="40" height ="40"><path d="M128 128H0V0h128v128z" style="fill:#d00000"/><path d="M34.1 99.3c0 .1.1.2.1.3l2.2 2.2c.1.1.2.1.3.1h7.5c.1 0 .2-.1.3-.1l2.2-2.2c.1-.1.1-.2.1-.3V75.5c0-.1.1-.2.1-.3l9.5-9.1c.1-.1.2-.1.2 0l24.1 35.6c.1.1.2.1.3.1h10.6c.1 0 .2-.1.3-.2l1.9-3.7v-.3L65.7 56.9c-.1-.1 0-.2 0-.3l25.9-25.8c.1-.1.1-.2.1-.3V30c0-.1 0-.2-.1-.3l-1.5-3.4c0-.1-.1-.2-.2-.2H79.4c-.1 0-.2.1-.3.1L47 58.5c-.1.1-.1 0-.1-.1V28.9c0-.1-.1-.2-.1-.3l-2.2-2.3c-.1-.1-.2-.1-.3-.1h-7.6c-.1 0-.2.1-.3.1l-2.2 2.4c-.1.1-.1.2-.1.3v70.3z" style="fill:#fff"/></svg>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
+
+- **Version Control**: 
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=github" alt="git" width="40" height="40"/> </a>
+- **Databases**
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
 ### 🚀 Projects
 Here are a few of the projects I've been working on:
