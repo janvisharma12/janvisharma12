@@ -26,12 +26,7 @@ I'm currently pursuing my **B.Tech in Computer Science and Engineering**, specia
 Here are a few of the projects I've been working on:
 - **[Project 1: CinePal](#https://github.com/janvisharma12/CinePal)**  
   Description: CinePal is a machine learning-powered movie recommendation system designed to help users discover new films based on their viewing history and preferences. Leveraging collaborative filtering, content-based filtering, and hybrid models, CinePal provides personalized movie suggestions tailored to each user's unique taste.
-  
-- **[Project 2: Prime Detect](#https://github.com/janvisharma12/Prime-Detect)**  
-  Description: Detecting products from Amazon displayed in movies or series on Prime Video presents a unique challenge for traditional object detection models. With the vast number of products available on Amazon, it's impractical to gather sufficient training samples for each class.
-  
-- **[Project 3: Health Mate](#https://github.com/janvisharma12/Health-Mate)**  
-  Description: HealthMate is an AI-powered medical chatbot designed to assist users with health-related queries. It provides personalized advice, symptom assessments, and general healthcare information. With a user-friendly interface, HealthMate aims to offer quick, reliable, and accurate support, helping users make informed decisions about their health and well-being. Whether tracking symptoms, finding information on medications, or managing wellness routines, HealthMate is a convenient digital companion for everyday healthcare needs.
+
 - **More projects coming soon...**
 
 ### 🔗 Connect with Me
