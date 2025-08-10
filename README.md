@@ -27,6 +27,9 @@ Here are a few of the projects I've been working on:
 - **[Project 1: CinePal](#https://github.com/janvisharma12/CinePal)**  
   Description: CinePal is a machine learning-powered movie recommendation system designed to help users discover new films based on their viewing history and preferences. Leveraging collaborative filtering, content-based filtering, and hybrid models, CinePal provides personalized movie suggestions tailored to each user's unique taste.
 
+- **[Project 2: Sales Data Analysis](#https://github.com/janvisharma12/Sales-data-analysis-Dashboard)**  
+  Description: Developed an interactive Sales Analysis Dashboard in Microsoft Power BI to visualize KPIs, track sales trends, and analyze regional and product-level performance, enabling data-driven decision-making and improved business insights.
+
 - **More projects coming soon...**
 
 ### 🔗 Connect with Me
