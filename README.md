@@ -30,6 +30,9 @@ Here are a few of the projects I've been working on:
 - **[Project 2: Sales Data Analysis](#https://github.com/janvisharma12/Sales-data-analysis-Dashboard)**  
   Description: Developed an interactive Sales Analysis Dashboard in Microsoft Power BI to visualize KPIs, track sales trends, and analyze regional and product-level performance, enabling data-driven decision-making and improved business insights.
 
+- **[Project 3: UPI Transaction Analysis](#https://github.com/janvisharma12/UPI-Transaction-Analysis)**  
+  Description: Developed an interactive Power BI dashboard analyzing 2024 UPI transaction data, incorporating advanced DAX measures, slicers, and visual storytelling to uncover trends, city-wise patterns, and currency-based insights.
+
 - **More projects coming soon...**
 
 ### 🔗 Connect with Me
